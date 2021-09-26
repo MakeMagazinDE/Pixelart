@@ -1,2 +1,2 @@
 # Pixelart
-LED-Panel mit Pi 
+Beispielgrafiken für animierte Bilder auf LED-Panel mit Pi 
